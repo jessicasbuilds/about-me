@@ -1,5 +1,7 @@
 # Jessica Builds
 
+> **From a thought to reality through innovation.**
+
 **Robotics · Automation · AI Systems · Software · Aerospace**
 
 I build systems.
@@ -81,4 +83,4 @@ I am interested in difficult problems where software, hardware, controls, AI, an
 ---
 
 ### Jessica Builds
-**Creating is the work.**
+**From a thought to reality through innovation.**
