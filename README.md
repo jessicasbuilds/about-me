@@ -1,102 +1,84 @@
-# Jessica Chikezie
+# Jessica Builds
 
-**Robotics · Automation · Embedded Systems · Applied AI · Software**
+**Robotics · Automation · AI Systems · Software · Aerospace**
 
-I'm an honours graduate of Humber Polytechnic's **Electromechanical Engineering Technician — Automation & Robotics** program (2026), recognized with the **SCHUNK Leadership Award** and **Dean's Honours**.
+I build systems.
 
-I build across electrical, mechanical, control, and software systems. My interests include autonomous robotics, aerospace and space systems, rapid prototyping, and intelligent automation.
+I am an electromechanical engineering honours graduate, multidisciplinary builder, and lifelong space enthusiast. I am most fulfilled when I am creating — taking an idea that does not exist yet, breaking it into subsystems, building, testing, finding where it fails, and iterating until it works.
 
-## Selected projects
+My work crosses physical and digital systems: robotics, industrial automation, embedded hardware, software, applied AI, algorithms, manufacturing concepts, and aerospace-adjacent technologies.
 
-This repository brings together my engineering and software portfolio. Project summaries describe my work and its current scope; source code is linked where available.
+## Current focus
 
-| Project | Focus | Current scope |
-| --- | --- | --- |
-| [Limitless Checkout](https://github.com/ifyaiscale/buildcontinue) | Full-stack software and API integration | Working management app and demo checkout; live payments pending |
-| [AI Content Operations](#ai-content-operations) | Applied AI and workflow software | Built system; project summary below |
-| [Carry X](#carry-x) | Autonomous robotics | Concept and system architecture |
-| [Soundr](#soundr) | Algorithmic music software | Software project; project summary below |
-| [Automation & Mechatronics](#automation--mechatronics) | PLCs, embedded control, and integration | Coursework, hands-on systems, and conveyor concepts |
+- Autonomous robotics and physical AI
+- Rapid prototyping and electromechanical systems
+- Applied AI and forward-deployed workflows
+- Embedded systems and controls
+- Aerospace, remote sensing, and autonomous aircraft
+- Intelligent manufacturing and automation
+
+## Selected builds
+
+### Carry X — Autonomous Follow-Me Robotic Platform
+A mobile robotic platform designed around autonomous user-following, sensing, locomotion, control, and human-machine interaction.
+
+**Areas:** robotics · autonomy · sensors · controls · electromechanical integration
+
+### AI Content Operations — Applied AI System
+A multi-stage AI production system coordinating specialized models, APIs, structured outputs, validation layers, human approval, and parallel generation workflows.
+
+The system supported content responsible for **500M+ organic views and six figures in revenue**.
+
+**Areas:** AI orchestration · APIs · model routing · structured pipelines · validation · forward deployment · human-in-the-loop systems
+
+### Soundr — Algorithmic Music Production Software
+Coded software exploring how musical composition, arrangement, sequencing, and production decisions can be represented as programmable systems.
+
+**Areas:** software engineering · algorithms · creative computation · automation
+
+### Conveyor Automation System
+An automated manufacturing/conveyor concept built around sequencing, sensing, interlocks, material flow, actuators, and coordinated machine-control logic.
+
+**Areas:** PLCs · ladder logic · industrial automation · sensors · manufacturing systems
 
 ### Limitless Checkout
+A full-stack multi-brand commerce and checkout system built with Next.js, React, TypeScript, APIs, SQLite/Supabase, Shopify integrations, Whop integrations, authentication, encrypted credentials, validation, and production-oriented system design.
 
-A single-owner, multi-brand checkout workspace using Next.js, React, TypeScript, and persistent storage.
+[View the working repository](https://github.com/jessicasbuilds/buildcontinue)
 
-- Brand management and a configurable checkout studio with demo orders.
-- Shopify credential validation and product-variant import.
-- Whop company read-access validation.
-- Signed HttpOnly sessions, encrypted credential storage, input validation, and idempotent demo checkout operations.
-- Clear boundaries between demo behavior and unfinished payment functionality.
-
-**Status:** The repository documents a working management application and demo checkout. Live payment collection and order synchronization remain pending.
-
-[Explore the source and implementation documentation →](https://github.com/ifyaiscale/buildcontinue)
-
-### AI Content Operations
-
-Designed and built an AI workflow coordinating multiple models, external APIs, internal tools, and validation stages for content production.
-
-- Structured stages for ideation, scripting, scene mapping, image/video generation, voice processing, and review.
-- Model routing and JSON input/output contracts between stages.
-- State management, retries, automated validation, and human approval.
-- Iterative debugging of timing, visual continuity, model drift, and malformed outputs.
-- Parallel execution of portions of the generation workflow.
-
-**Portfolio status:** Summary of my work; source code and a demonstration are not included in this repository.
-
-### Carry X
-
-Developed the concept and system architecture for a mobile robotic platform intended to follow a user and transport belongings.
-
-- Broke the system into mobility, sensing, locomotion, controls, and human-machine interaction.
-- Explored integration of mechanical, electrical, and software subsystems.
-- Considered usability and mobility constraints alongside user-following behavior.
-
-**Status:** Concept and architecture exploration. This entry does not claim a completed autonomous prototype.
-
-### Soundr
-
-Designed and coded software exploring algorithmic music creation and production.
-
-- Represented composition and production choices as programmable rules.
-- Explored arrangement, sequencing, pattern generation, and musical structure.
-- Tested generated outputs and iterated on the underlying algorithms.
-
-**Portfolio status:** Project summary; source code and audio demonstrations are not included here yet.
-
-### Automation & Mechatronics
-
-Hands-on work with PLCs, Raspberry Pi, Arduino, motors, sensors, relays, and industrial controls.
-
-- PLC ladder logic using timers, counters, sequencers, and interlocks.
-- Embedded control with Raspberry Pi and Arduino.
-- H-bridge motor-control applications.
-- Electrical, mechanical, and software integration with physical testing and fault diagnosis.
-
-Conveyor-system concept work explored sensing, coordinated production stages, interlocks, and material-flow sequencing.
+**Areas:** TypeScript · Next.js · React · APIs · databases · security · systems architecture
 
 ## Technical toolkit
 
-- **Programming & software:** C++, Python, Visual Basic, TypeScript, React, Next.js, API integration, JSON, SQLite, Git/GitHub.
-- **Applied AI:** Multi-model orchestration, structured pipelines, model routing, validation, retries, and human-in-the-loop workflows.
-- **Automation & controls:** PLC Ladder Logic, RSLogix 500, MicroLogix 1100, sequencing, timers, counters, and machine-control logic.
-- **Embedded & robotics:** Raspberry Pi, Arduino, GPIO, sensors, and H-bridge motor control.
-- **Electrical & prototyping:** AutoCAD Electrical, schematics, panel design, wiring, troubleshooting, and iterative build-test-debug cycles.
+**Programming:** C++ · Python · Visual Basic · TypeScript · PLC Ladder Logic
 
-## Education & training
+**Robotics & Embedded:** Raspberry Pi · Arduino · GPIO · sensors · H-bridge motor control · electromechanical integration
 
-**Humber Polytechnic**  
-Electromechanical Engineering Technician — Automation & Robotics  
-Honours Graduate, 2026 · SCHUNK Leadership Award · Dean's Honours List
+**Automation & Controls:** RSLogix 500 · MicroLogix 1100 · timers · counters · sequencers · interlocks · machine-control logic
 
-**NASA ARSET — Fundamentals of Remote Sensing**  
-Completed training in Earth observation, satellite data, and remote-sensing fundamentals.
+**AI Systems:** API integration · model orchestration · agentic workflows · model routing · structured data contracts · validation logic · automated retries · human-in-the-loop systems
 
-**Universal Robots — Core Track**  
-Training in collaborative robotics, robot programming, motion, safety, and industrial applications.
+**Electrical & Design:** AutoCAD Electrical · electrical schematics · panel design · wiring · troubleshooting
 
-## Areas I want to build in
+## Space & aerospace
 
-Autonomous platforms, embedded systems, robotics, aerospace, advanced manufacturing, applied AI, and tools that connect software to real-world operations.
+Space has fascinated me since childhood. I completed **NASA ARSET Fundamentals of Remote Sensing** training and continue exploring how robotics, AI, automation, remote sensing, and intelligent systems can contribute to aerospace and space technology.
 
-[My GitHub projects →](https://github.com/ifyaiscale?tab=repositories)
+## Recognition
+
+- **Electromechanical Engineering Technician — Automation & Robotics, Honours Graduate**
+- **SCHUNK Leadership Award**
+- **Dean's Honours List**
+- **NASA ARSET — Fundamentals of Remote Sensing**
+- **Universal Robots — Core Track**
+
+## How I like to work
+
+Build quickly. Test in reality. Break things. Understand why. Rebuild better.
+
+I am interested in difficult problems where software, hardware, controls, AI, and real-world constraints collide.
+
+---
+
+### Jessica Builds
+**Creating is the work.**
